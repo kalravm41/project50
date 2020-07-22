@@ -1,0 +1,28 @@
+ h4{
+   color: #000000;
+   }
+   h1{
+     color : #ffffff;
+   }
+   h2{
+     color : #00aa00;
+   }
+   /* * {
+       border: solid;
+   } */
+
+   .header {
+
+    background-color: #5f9ea0;
+    display: flex;
+    justify-content: space-between;
+
+   }
+
+   .grid {
+        
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+   }
